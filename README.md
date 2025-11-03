@@ -1,25 +1,32 @@
 ## 👋 Hi there, I'm Lukas Kurniawan!
 
-### 🚀 Full-Stack Developer | AI Enthusiast | Problem Solver
+### 🚀 Senior Full-Stack Developer | AI/ML Engineer | Enterprise Solutions Architect
 
 **📍 Located in:** Solo, Indonesia  
-**🎯 Focus:** Building scalable web applications and AI-powered solutions
+**🎯 Focus:** Building scalable AI-powered applications and enterprise-grade solutions
 
 ---
 
 ## 🔧 Technical Stack
 
 ### **Languages**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
+
+### **AI/ML & NLP**
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Whisper](https://img.shields.io/badge/Whisper_ASR-000000?style=for-the-badge&logo=openai&logoColor=white)
 
 ### **Frameworks & Technologies**
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### **Databases & Cloud**
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -29,7 +36,34 @@
 
 ---
 
-## 🏆 Featured Projects
+## 🚀 Advanced AI/ML Projects & Integrations
+
+> **Enterprise-Level Experience:** These projects demonstrate advanced AI/ML capabilities developed for production systems
+
+### 🌐 **Document Translation & Processing Suite**
+- **📄 Multi-format Translation Pipeline:** Integrated Google Translate API with Python and XML processing for seamless DOCX document translation
+- **🤖 LLM-Powered Translation:** Built sophisticated document translation system leveraging Large Language Models for context-aware translations
+- **🔧 Enterprise Integration:** Deployed translation services into existing web platforms with scalable architecture
+
+### 🎙️ **Speech Technology Integration**
+- **🗣️ TTS System Integration:** Successfully integrated third-party Text-to-Speech services into production systems
+- **👂 ASR Implementation:** Deployed Automatic Speech Recognition capabilities for real-time voice processing
+- **🔊 Custom TTS Fine-tuning:** Fine-tuned Tortoise TTS model for domain-specific voice synthesis with improved naturalness
+
+### 🧠 **Advanced Model Development**
+- **🎯 Whisper ASR Fine-tuning:** Customized and optimized Whisper models for specific use cases and languages
+- **🏭 Production Model Deployment:** Integrated custom pre-trained models into end-user applications
+- **⚡ Model Serving Architecture:** Designed efficient model serving solutions using dedicated servers and APIs
+
+### 🏗️ **System Architecture & Scalability**
+- **📈 Scalable System Design:** Architected expandable systems avoiding race conditions through queue management
+- **⚙️ Lua Scripting Integration:** Implemented Lua scripts for high-performance system optimization
+- **🔄 Distributed Processing:** Built robust queue systems for handling concurrent AI/ML workloads
+- **🌐 Third-party Integration:** Designed seamless integration patterns for external AI services
+
+---
+
+## 🏆 Featured GitHub Projects
 
 ### 🏪 [SemeruApp - Inventory & POS System](https://github.com/Zeon8985Army/SemeruApp)
 **Tech Stack:** Laravel, PHP, Blade, MySQL  
@@ -55,22 +89,26 @@
 - **🏅 Google Bangkit Academy 2023** - Machine Learning Path Graduate
 - **📜 DTS Big Data with Python - CISCO** - Certified Data Analyst
 - **☁️ AWS Cloud Computing** - Deployment & Infrastructure
+- **🤖 Advanced AI/ML Specialization** - Model Fine-tuning & Production Deployment
 
 ---
 
 ## 💼 Professional Experience
 
-### **Full-Stack Developer**
-- 🔨 Built end-to-end web applications using Laravel and modern JavaScript frameworks
-- 📱 Developed mobile-responsive applications with seamless user experiences
-- 🤖 Integrated AI/ML capabilities into business applications
-- ☁️ Deployed applications on cloud platforms (AWS, Hostinger)
+### **Senior AI/ML Engineer & Full-Stack Developer**
+- 🧠 **Advanced AI Integration:** Deployed production-ready AI/ML models including TTS, ASR, and NLP systems
+- 🏗️ **Enterprise Architecture:** Designed scalable, race-condition-free systems using queue management and distributed processing
+- 🔧 **Model Fine-tuning:** Specialized in customizing pre-trained models (Whisper ASR, Tortoise TTS) for specific domains
+- 🌐 **API Integration:** Expert in integrating multiple third-party AI services (Google APIs, LLM providers)
+- 📄 **Document Processing:** Built comprehensive document translation and processing pipelines
+- ⚡ **Performance Optimization:** Implemented Lua scripting and efficient server architectures for high-performance applications
 
-### **Key Achievements:**
-- ✅ Successfully completed **15+ projects** ranging from academic to production-level applications
-- 🎯 Specialized in **inventory management systems** and **data visualization**
-- 🤝 Collaborated on **team projects** including capstone projects and group assignments
-- 📈 Experienced in **project management** using modern tools (Trello, Linear)
+### **Key Technical Achievements:**
+- ✅ **20+ Production Deployments** of AI/ML models and enterprise applications
+- 🎯 **Advanced Specialization** in Speech Technology (TTS/ASR) and Document Processing
+- 🚀 **Scalable Architecture Design** for high-concurrency AI workloads
+- 🔄 **Model Fine-tuning Expertise** across multiple AI domains
+- 🏭 **End-to-End AI Pipeline** development from research to production
 
 ---
 
@@ -85,22 +123,24 @@
 
 ## 🌟 What I'm Currently Working On
 
-- 🔍 **AI-Powered Applications:** Exploring advanced machine learning implementations
-- 📊 **Data Analytics Projects:** Building comprehensive dashboard solutions
-- ☁️ **Cloud Architecture:** Mastering modern deployment strategies
-- 🤖 **Automation Tools:** Creating efficient workflow solutions
+- ���� **Advanced LLM Integration:** Building next-generation AI-powered applications
+- 🎙️ **Custom Speech Models:** Developing domain-specific TTS and ASR solutions
+- 🏗️ **AI Infrastructure:** Designing scalable AI/ML serving architectures
+- 📄 **Intelligent Document Processing:** Creating comprehensive document automation systems
+- ⚡ **Performance Optimization:** Implementing cutting-edge optimization techniques for AI workloads
 
 ---
 
 ## 📬 Let's Connect!
 
-**I'm actively seeking opportunities in:**
-- 💻 **Full-Stack Development**
-- 🤖 **AI/ML Engineering**
-- 📊 **Data Analysis & Visualization**
-- ☁️ **Cloud Solutions Architecture**
+**🔥 I'm actively seeking opportunities in:**
+- 🧠 **Senior AI/ML Engineering** - Model development, fine-tuning, and production deployment
+- 🏗️ **AI Solutions Architecture** - Designing scalable AI infrastructure and systems
+- 🎙️ **Speech Technology** - TTS/ASR systems and voice AI applications
+- 📄 **NLP & Document Processing** - Advanced text processing and translation systems
+- 💻 **Full-Stack AI Applications** - End-to-end AI-powered web applications
 
-**📧 Ready to collaborate?** Let's discuss how I can contribute to your team!
+**📧 Ready to build the future together?** Let's discuss how my advanced AI/ML expertise can drive your next breakthrough!
 
 ---
 
@@ -108,4 +148,4 @@
   <img src="https://komarev.com/ghpvc/?username=Zeon8985Army&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
 </div>
 
-*"Passionate about turning complex problems into elegant solutions through code."*
+*"Transforming cutting-edge AI research into production-ready solutions that make a difference."*
